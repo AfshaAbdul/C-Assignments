@@ -1,0 +1,10 @@
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\bin\Debug\DapTask.dacpac
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\bin\Debug\DapTask.dll
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\bin\Debug\DapTask.pdb
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\DapTask.sqlproj.AssemblyReference.cache
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\Model.xml
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\refactor.xml
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\postdeploy.sql
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\predeploy.sql
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\DapTask.dll
+C:\Users\SAILS-DM165\source\repos\DapTask\DapTask\obj\Debug\DapTask.pdb
