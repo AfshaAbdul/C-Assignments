@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\SAILS-DM165\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAILS-DM165\\AppData\\Roaming\\NuGet\\NuGet.Config",

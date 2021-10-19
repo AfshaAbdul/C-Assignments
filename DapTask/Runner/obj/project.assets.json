@@ -1226,11 +1226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\Runner\\Runner.csproj",
+      "projectUniqueName": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\Runner\\Runner.csproj",
       "projectName": "Runner",
-      "projectPath": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\Runner\\Runner.csproj",
+      "projectPath": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\Runner\\Runner.csproj",
       "packagesPath": "C:\\Users\\SAILS-DM165\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\Runner\\obj\\",
+      "outputPath": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\Runner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SAILS-DM165\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1247,8 +1247,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "C:\\Users\\SAILS-DM165\\source\\repos\\DapTask\\DataLayer\\DataLayer.csproj"
+            "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\SAILS-DM165\\Documents\\GitHub\\C-Assignments\\DapTask\\DataLayer\\DataLayer.csproj"
             }
           }
         }
